@@ -2,6 +2,9 @@ public class Mathematics
 {
     static public float[] ValuesWithGaussian(Matrix a,Matrix b)
     {
+        if (a.rows != a.columns || b.rows != a.rows || b.columns != 1)
+            return null;
+
         for (int k = 0; k < a.columns; k++)
         {
             for(int i = k + 1; i < a.rows; i++)
