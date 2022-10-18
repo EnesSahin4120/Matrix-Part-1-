@@ -1,4 +1,4 @@
 # Matrix-Part-1-
 Project contains " Matrix Arithmetic Operations, Transpose of Matrix, Gaussian Elimination to Solve Linear Equations "
 
-![video-to-gif-converter](https://user-images.githubusercontent.com/65425355/158879485-715016ab-fb6c-426a-b745-8a67ddbaa6a3.gif)
+![1](https://user-images.githubusercontent.com/65425355/196559853-fa495538-e43f-4ba2-a4bb-65220109bef4.gif)
